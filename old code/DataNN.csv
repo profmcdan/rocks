@@ -1,0 +1,10 @@
+Location,Lithology,Texture,Compressive Strength MPa,Aggregate Crushing Value,Specific Gravity,Water Absorption,Point Load,Brittleness Value,Siever J (SJ) Value,Density,Location,Dynamic Young Modulus,Dynamic Shear Modulus,P – Wave Velocity (m/s),S – Wave Velocity (m/s),Poission’s Ratio (V),Rock Hardness (f),Drilling Rate Index (DRI),Drillability Characterization based on Rock Hardness (f),Drillability Characterization based on DRI
+CG,Granite Gnesis,,59,25.4,2.692,0.33,8.22,34.43,0.58,2.685,CG,24.9,9.7,3425,1898,0.28,5.9,22,Rather Hard,Extremely Low
+KM,Granite Gnesis,,126.6,25.1,2.649,0.38,6.75,49.78,0.67,2.71,KM,42.1,16.4,4536,2486,0.29,12.66,35,Hard,Low
+LG,Hornblende Granite,,124.5,27.8,2.691,0.34,7.65,78.23,0.67,2.863,LG,25,10.3,3251,1969,0.21,12.45,59,Hard,High
+GA,,,91.7,31.2,2.641,0.33,5.6,81.54,0.7,2.734,GA,16.7,7,2641,1637,0.19,9.17,65,Hard,High
+NE,,,174.4,20.2,2.661,0.32,8.51,55.41,0.67,2.758,NE,47.7,18.1,5045,2618,0.32,17.44,38,Very Hard,Medium
+KF,Porphyritic Granite,,74.2,26.1,2.663,0.25,5.43,61.37,0.7,2.831,KF,37.8,15.1,4146,2379,0.25,7.42,45,Hard,Medium
+GW,Hornblende Granite,,96.1,28.4,2.72,0.1,4.97,68.52,0.63,2.629,GW,35.5,14.5,3866,2316,0.22,9.61,52,Hard,High
+KW,Porphyritic Granite,,122.3,22,2.631,0.3,6.7,63.71,0.6,2.661,KW,41.1,15.7,4626,2442,0.31,12.23,44,Hard,Medium
+MD,Hornblende Granite,,34.9,29.4,2.617,0.44,10.04,64.12,0.62,2.694,MD,37.4,14.9,4134,2371,0.25,3.49,47,Moderate,Medium
